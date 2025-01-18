@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budgetnew/static/css/main.8a30c604.css",
+    "main.js": "/budgetnew/static/js/main.d427864e.js",
+    "index.html": "/budgetnew/index.html",
+    "main.8a30c604.css.map": "/budgetnew/static/css/main.8a30c604.css.map",
+    "main.d427864e.js.map": "/budgetnew/static/js/main.d427864e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a30c604.css",
+    "static/js/main.d427864e.js"
+  ]
+}
